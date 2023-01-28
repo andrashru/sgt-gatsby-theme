@@ -4,7 +4,9 @@
 module.exports = {
   siteMetadata: {
     title: `SGT`,
-    siteUrl: `https://www.yourdomain.tld`,
+    description: `Описание сайта`,
+    image: `/images/icon.png`,
+    siteUrl: `https://s-g-t.ru`,
   },
   plugins: [],
 }
