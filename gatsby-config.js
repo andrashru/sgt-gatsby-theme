@@ -8,5 +8,8 @@ module.exports = {
     image: `/images/icon.png`,
     siteUrl: `https://s-g-t.ru`,
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
 }
